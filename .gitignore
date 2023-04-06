@@ -3,7 +3,6 @@
 *.txt
 *.md
 *.scvd
-*.ioc
 *.mxproject
 *.chm
 *.o
